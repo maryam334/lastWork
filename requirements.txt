@@ -1,10 +1,10 @@
 streamlit
 pandas
-ialtair
+altair
 matplotlib.pyplot
 streamlit_option_menu
 Image
-inumpy
+numpy
 cv2
 st_aggrid
 plotly.express
