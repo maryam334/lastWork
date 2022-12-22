@@ -1,0 +1,12 @@
+streamlit
+pandas
+ialtair
+matplotlib.pyplot
+streamlit_option_menu
+Image
+inumpy
+cv2
+st_aggrid
+plotly.express
+io 
+time
