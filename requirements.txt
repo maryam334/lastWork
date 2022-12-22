@@ -5,8 +5,4 @@ matplotlib.pyplot
 streamlit_option_menu
 Image
 numpy
-cv2
-st_aggrid
 plotly.express
-io 
-time
